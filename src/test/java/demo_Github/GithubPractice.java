@@ -6,5 +6,6 @@ public class GithubPractice {
 	@Test
 	public void display() {
 		System.out.println("Git Practice");
+		System.out.println("modifying git");
 	}
 }
